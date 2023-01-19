@@ -1,0 +1,6 @@
+com\vehicle\service\VehicleService.class
+com\vehicle\controller\VehicleController.class
+com\vehicle\model\Vehicle.class
+com\vehicle\VehicleManagaementSystemApplication.class
+com\vehicle\repository\VehicleRepository.class
+com\vehicle\service\VehicleServiceImpl.class
